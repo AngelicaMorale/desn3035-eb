@@ -15,7 +15,7 @@ export default function Page() {
                     <img className="d-block w-100 mb-3" src="https://picsum.photos/id/501/1280/720" />
                     <h1>About Us</h1>
                     <p>
-                        We are the best coffee roaster!
+                        We are the best coffee roaster!!
                     </p>
                 </div>
 
